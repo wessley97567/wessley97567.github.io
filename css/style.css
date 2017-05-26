@@ -1,0 +1,63 @@
+.divtrevas{background-color:black;}
+
+.font-1{font-family:'fontastique';
+ src:url('fotns/fantastique,ttf'); font-weight:normal; 
+font-style:normal;
+color:#fff;
+}
+.font-2{font-family:'fontastique'; 
+src:url('fotns/fantastique,ttf'); font-weight:normal;
+ font-style:normal;
+ color:#fff;
+}
+.card{
+	padding:20px;color:black;justufy-content:center;text-align:center;border:2px solid;border-radius:8px; color:#fff;}
+.card>span{font-size:60pt;}
+.div-azul{background-color:#00BFFF;}
+.footer{background-color:black;
+padding:10px;
+color:#fff;}
+.footer span{
+	font-size:12pt;}
+.blog-data{
+background-color:black;
+color:#fff;
+borde-radius:3px;
+}
+.blog-data .dia{
+font-size:36pt;
+}
+}
+.blog-data .mes{
+font-size:12pt;
+}
+}
+.blog-autor{
+font-size:20pt;
+color:#999;
+}
+.blog-previa{
+font-size:16pt;
+}
+.imgprevia{
+width:450px;
+height:300px;
+}
+.post-nav{
+background-color:black;
+padding-top:20px;
+padding-bottom:16px;
+}
+.post-nav span{ 
+font-size:30pt;
+}
+.footer{
+background-color:#000;
+padding:1px;
+color:#fff;
+}
+.footerspan{
+font-size:12pt;
+}
+.fa fa-chevron-left{color:#fff;}
+
